@@ -1,4 +1,12 @@
 export const flagColours = {
+    "spanish_pride": [
+        "#ac0219",
+        "#e50023",
+        "#fdc32a",
+        "#feeb31",
+        "#e50023",
+        "#ac0219"
+    ],
     "spain_dark": [
         "#ad1518",
         "#ba3115",
